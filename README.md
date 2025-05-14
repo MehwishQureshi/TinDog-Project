@@ -1,4 +1,4 @@
-🐶 TinDog – Find Your Dog's Perfect Match!
+## 🐶 TinDog – Find Your Dog's Perfect Match!
 
 **TinDog** is a beautifully designed, responsive website for a fictional dog dating app — think Tinder, but for dogs! Built with **HTML**, **CSS**, and **Bootstrap**, this project showcases front-end web development skills and creative UI/UX design.
 
